@@ -15,7 +15,6 @@ N 5 # then north 1
 E 7 # then east 2
 S 3 # then south 1
 U   # pen up
-F  
 S 10 # then south 10
 D   # pen down
 E 2 # then east 2
