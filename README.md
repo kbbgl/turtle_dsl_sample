@@ -22,4 +22,4 @@ E 2 # then east 2
 
 3) Save file and run `python main.py`
 
-*Note*: Developed on `3.7.4`
+**Note**: Developed on `python 3.7.4`
